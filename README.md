@@ -1,3 +1,5 @@
+Testing Sept 2024
+
 # ASP.NET Upgrade Sample
 
 This repo contains the legacy eShop sample (from https://github.com/dotnet-architecture/eShopModernizing/tree/main/eShopLegacyMVCSolution/src/eShopLegacyMVC) with a few small changes.
